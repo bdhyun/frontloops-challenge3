@@ -5,11 +5,11 @@ The challenge was to recreate the webpage as presented in the mp4 file provided 
 
 ### FrontLoops Reference Screenshot
 
-![Front Loops Challenge 3 Reference Screenshot](frontloops-reference-screenshot.png)
+![Front Loops Challenge 3 Reference Screenshot](design/frontloops-reference-screenshot.png)
 
 ### Demo
 
-![Front Loops Challenge 3 Demo]()
+![Front Loops Challenge 3 Demo](https://media.giphy.com/media/Uuwrtl1beFCIC93swJ/giphy.gif)
 
 ### Screenshot
 
