@@ -15,4 +15,4 @@ The challenge was to recreate the webpage as presented in the mp4 file provided 
 
 ![Front Loops Challenge 3 Output Screenshot](final-product-screenshot.png)
 
-*Assets for webpage provided by FrontLoops.*
+*Assets for webpage provided by FrontLoops. Background image provided by Unsplash.*
